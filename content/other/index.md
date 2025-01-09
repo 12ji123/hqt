@@ -1,4 +1,4 @@
 ---
-title: "Áo dài"
-categories: áo dài
+title: "Thập cẩm"
+categories: mix
 ---

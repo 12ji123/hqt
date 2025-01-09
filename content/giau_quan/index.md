@@ -1,4 +1,4 @@
 ---
-title: "Áo dài"
-categories: áo dài
+title: "Áo giấu quần"
+categories: mix
 ---
